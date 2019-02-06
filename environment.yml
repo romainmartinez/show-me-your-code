@@ -1,0 +1,8 @@
+name: show-me
+channels:
+- default
+- conda-forge
+dependencies:
+- python
+- nb_conda_kernels
+
